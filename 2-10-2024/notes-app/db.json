@@ -1,14 +1,3 @@
 {
-  "Notes": [
-    {
-      "id": "55fe",
-      "index": 2,
-      "note_name": "Learn Javascript"
-    },
-    {
-      "id": "ba9a",
-      "index": 2,
-      "note_name": "Learn react"
-    }
-  ]
+  "notes": []
 }
